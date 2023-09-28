@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Guadalajara",
+        "country": "Mexico",
+        "region": "West",
+        "stadium": "Estadio Akron",
+        "capacity": 48071
+    },
+    {
+        "name": "Los Angeles",
+        "country": "USA",
+        "region": "West",
+        "stadium": "SoFi Stadium",
+        "capacity": 70240
+    },
+    {
+        "name": "San Francisco",
+        "country": "USA",
+        "region": "West",
+        "stadium": "Levi's Stadium",
+        "capacity": 70909
+    },
+    {
+        "name": "Seattle",
+        "country": "USA",
+        "region": "West",
+        "stadium": "Lumen Field",
+        "capacity": 69000
+    },
+    {
+        "name": "Vancouver",
+        "country": "Canada",
+        "region": "West",
+        "stadium": "BC Place",
+        "capacity": 54500
+    },
+    {
+        "name": "Atlanta",
+        "country": "USA",
+        "region": "Central",
+        "stadium": "Mercedes-Benz Stadium",
+        "capacity": 75000
+    },
+    {
+        "name": "Dallas",
+        "country": "USA",
+        "region": "Central",
+        "stadium": "AT&T Stadium",
+        "capacity": 92967
+    },
+    {
+        "name": "Houston",
+        "country": "USA",
+        "region": "Central",
+        "stadium": "NRG Stadium",
+        "capacity": 72220
+    },
+    {
+        "name": "Kansas City",
+        "country": "USA",
+        "region": "Central",
+        "stadium": "Arrowhead Stadium",
+        "capacity": 76640
+    },
+    {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "region": "Central",
+        "stadium": "Estadio Azteca",
+        "capacity": 87523
+    },
+    {
+        "name": "Monterrey",
+        "country": "Mexico",
+        "region": "Central",
+        "stadium": "Estadio BBVA",
+        "capacity": 53460
+    },
+    {
+        "name": "Boston",
+        "country": "USA",
+        "region": "East",
+        "stadium": "Gillette Stadium",
+        "capacity": 70000
+    },
+    {
+        "name": "Miami",
+        "country": "USA",
+        "region": "East",
+        "stadium": "Hard Rock Stadium",
+        "capacity": 67518
+    },
+    {
+        "name": "New York",
+        "country": "USA",
+        "region": "East",
+        "stadium": "MetLife Stadium",
+        "capacity": 87157
+    },
+    {
+        "name": "Philadelphia",
+        "country": "USA",
+        "region": "East",
+        "stadium": "Lincoln Financial Field",
+        "capacity": 69000
+    },
+    {
+        "name": "Toronto",
+        "country": "USA",
+        "region": "East",
+        "stadium": "BMO Field",
+        "capacity": 45500
+    }
+]
